@@ -1,0 +1,38 @@
+.home-container {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    margin: 0 auto;
+    border: 2px dotted var(--text-color);
+    padding: 35px;
+}
+.home-text {
+    color: var(--text-color);
+    font-size: 18px;
+}
+.home-highlighted-text {
+    color: rgb(54, 78, 156);
+}
+
+.home-title-container {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 750px;
+    margin: 0 auto;
+}
+.home-title {
+    font-size: 30px;
+}
+
+.login-text {
+    color: rgb(90, 68, 100);
+}
+.home-title-container-2 {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 750px;
+    margin: 0 auto;
+}
