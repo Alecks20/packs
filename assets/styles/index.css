@@ -7,3 +7,7 @@ body {
     font: calc(0.40rem + 1vmin) monospace;
     background-color: var(--background-colour);
 }
+
+#fileInput {
+    display: none;
+}

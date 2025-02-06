@@ -4,7 +4,7 @@
     flex-direction: column;
     width: 700px;
     margin: 0 auto;
-    border: 2px dotted var(--text-color);
+    border: 2px dashed var(--text-color);
     padding: 35px;
 }
 .home-text {
